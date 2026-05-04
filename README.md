@@ -48,6 +48,6 @@ To predict the admission probability, use the model.predict() method with a list
 Example Snippet:
 
 Python
-# Predict for a student with GRE 337 and CGPA 9.65
+Predict for a student with GRE 337 and CGPA 9.65
 prediction = model.predict([[337, 118, 4, 4.5, 4.5, 9.65, 0]])
 print(f"Chance of Admit: {prediction[0]*100}%")
