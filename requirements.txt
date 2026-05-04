@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+
+scikit-learn
+model_selection: GridSearchCV, train_test_split, cross_val_score.
+
+linear_model: LinearRegression, Lasso.
+
+svm: SVR.
+
+tree: DecisionTreeRegressor.
+
+ensemble: RandomForestRegressor.
+
+neighbors: KNeighborsRegressor.
